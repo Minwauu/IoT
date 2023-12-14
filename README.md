@@ -33,3 +33,8 @@ The IoT helps gain a competitive advantage, increase customer satisfaction, impr
 - Cyberattacks
 - Lack of standardization
 - Poor iot device management
+- Weak authentification
+
+## IoT attack
+
+What is Mirai? Mirai is malware that infects smart devices that run on ARC processors, turning them into a network of remotely controlled bots or "zombies". This network of bots, called a botnet, is often used to launch DDoS attacks. While relatively unchanged, the notorious IoT botnet still continues to drive DDoS. The Mirai botnet continues to break records for driving the biggest and most disruptive distributed denial of service (DDoS) attacks ever seen, researchers say.
